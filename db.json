@@ -1,1 +1,29 @@
+{
+  "cartoons": [
+    {
+      "id": 1,
+      "title": "Kung Fu Panda 4",
+      "overview": "Po uzoq vaqt kutilgan sarguzashtlardan so'ng Tinchlik vodiysining Ma'naviy yetakchisiga aylanishi kerak. Buning uchun u yangi Ajdarho jangchisini tayyorlashi lozim.",
+      "backdrop_path": "/1X7vA9DxG79NuI9w9wTQ6gPLgao.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Moana 2",
+      "overview": "Moana ajdodlaridan kutilmagan qo'ng'iroqni olgandan so'ng, Okeaniyaning uzoq dengizlariga va xavfli suvlarga qarab unutilmas sayohatga otlanadi.",
+      "backdrop_path": "/v9acaWV6J06Q36Z1vSj7R4dtA7z.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Inside Out 2 (Quvonch kundaligi 2)",
+      "overview": "Raylining o'smirlik davriga o'tishi bilan uning ongida mutlaqo yangi va kutilmagan his-tuyg'ular, jumladan Xavotir (Anxiety) paydo bo'ladi.",
+      "backdrop_path": "/stKGOm8wPL8wt79w6v6S17v04Im.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Despicable Me 4 (Yaxshi bo'lish osonmi 4)",
+      "overview": "Gru va uning oilasi yangi a'zo — Gru kichik bilan kengayadi. Biroq qadrdon dushman qamoqdan qochib, ularning tinch hayotiga tahdid soladi.",
+      "backdrop_path": "/lgk1zgwYm8gGjwZ06riZwgnClXf.jpg"
+    }
+  ]
+}
 
